@@ -15,6 +15,7 @@ An Arx Fatalis mod that aims to increase clarity of puzzles and in-game mechanis
 - improved english tutorial text for prying the bars open in the player's cell
 - improved english tutorial text for combat by highlighting the importance of holding down the mouse button to deal more damage
 - improved english instructions for breaking the floor grate after escaping from the cell
+- improved english tutorial text on stealing needs 51 points, 50 is not enough (source: https://www.reddit.com/r/ArxFatalis/comments/1dn0rgl/how_i_can_steal/)
 
 ### Audio
 
