@@ -19,4 +19,4 @@ An Arx Fatalis mod that aims to increase clarity of puzzles and in-game mechanis
 
 ### Audio
 
-- removed Kultar shouting in english "Aim at it's head!" as it falsly implies that the enemy takes more damage when hit on their heads
+- removed Kultar shouting in english "Aim at his head!" as it falsly implies that different body parts take different amount of damage
